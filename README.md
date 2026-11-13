@@ -4,7 +4,7 @@
 ## Supported tags and respective `Dockerfile` links
 
 ### Re:VIEW 5.11.0
- * [`latest` = `5.11.0` = `5.11.0.20261103` = `5.11.0-tl25` = `5.11.0-tl25.20261103`](https://github.com/munepi/docker-review/blob/20261103/5.11.0/Dockerfile): Re:VIEW 5.11.0, Pandoc 3.13 + pandoc-crossref v0.3.26a, TeX Live 2025 frozen (`x86_64-linux`, `aarch64-linux`)
+ * [`latest` = `5.11.0` = `5.11.0.20261114` = `5.11.0-tl25` = `5.11.0-tl25.20261114`](https://github.com/munepi/docker-review/blob/20261114/5.11.0/Dockerfile): Re:VIEW 5.11.0, Pandoc 3.14 + pandoc-crossref v0.3.26b, TeX Live 2025 frozen (`x86_64-linux`, `aarch64-linux`)
 
 ### Re:VIEW 5.10.0
  * [`5.10.0` = `5.10.0.20250509` = `5.10.0-tl24` = `5.10.0-tl24.20250509`](https://github.com/munepi/docker-review/blob/20250509/5.10.0/Dockerfile): Re:VIEW 5.10.0, TeX Live 2024 frozen/TeX Live (`x86_64-linux`, `aarch64-linux`)
