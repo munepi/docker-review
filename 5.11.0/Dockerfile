@@ -1,6 +1,6 @@
-## Re:VIEW 5.11 + Pandoc 3.13 + pandoc-crossref 0.3.26a
+## Re:VIEW 5.11 + Pandoc 3.14 + pandoc-crossref 0.3.26b
 ## build main image
-FROM munepi/pandoc:3.13-tl25.20261102 AS review-5.11.0-tl25
+FROM munepi/pandoc:3.14-tl25.20261114 AS review-5.11.0-tl25
 ENV REVIEW_VERSION=5.11.0
 RUN apt-get update && \
         apt-get install -y --no-install-recommends \
